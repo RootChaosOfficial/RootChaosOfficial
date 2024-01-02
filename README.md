@@ -1,14 +1,14 @@
-# 🖤 Hi! I'm RootChaosOfficial .🖤
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=💎+Kaliteli+bot+hizmetleri+için+altta+bulunan+butonlardan+bana+ulaşın.+💎" alt="RootChaosOfficial" />
+# 🖤 Hi! I'm KafkasOfficial .🖤
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=💎+Kaliteli+bot+hizmetleri+için+altta+bulunan+butonlardan+bana+ulaşın.+💎" alt="KafkasOfficial" />
 
-[![GitHub Urasfx](https://img.shields.io/github/followers/RootChaosOfficial?label=follow&style=social)](https://github.com/RootChaosOfficial)&nbsp;
+[![GitHub KafkasOfficial](https://img.shields.io/github/followers/KafkasOfficial?label=follow&style=social)](https://github.com/KafkasOfficial)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=RootChaosOfficial&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" /> <img src="https://count.getloli.com/get/@:RootChaosOfficial?theme=rule34" alt=":RootChaosOfficial" />
+<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" /> <img src="https://count.getloli.com/get/@:KafkasOfficial?theme=rule34" alt=":KafkasOfficial" />
 
 # About me
-I am 23 years old, I am a developer. I love coding and listening to Music. I've had the experience since 2012 and I'm doing it for fun. I am also the founder of a unique server on Discord.
+I am 24 years old, I am a developer. I love coding and listening to Music. I've had the experience since 2012 and I'm doing it for fun. I am also the founder of a unique server on Discord.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/948298109065256990)](https://discord.com/users/948298109065256990) 
 
@@ -25,17 +25,17 @@ If you want talk to me, you can contact me on discord.
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=RootChaosOfficial&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=RootChaosOfficial&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=KafkasOfficial&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=KafkasOfficial&theme=radical" />
 </p>
 
 #  Highlight Projects
 <p align="left">
-    <a href="https://github.com/RootChaosOfficial/v13-butonlu-mongo-register">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RootChaosOfficial&repo=v13-butonlu-mongo-register&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="C_Programming_Language" />
+    <a href="https://github.com/KafkasOfficial/v13-butonlu-mongo-register">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KafkasOfficial&repo=v13-butonlu-mongo-register&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="C_Programming_Language" />
     </a>
-    <a href="https://github.com/RootChaosOfficial/v13-butonlu-mongo-register">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RootChaosOfficial&repo=v13-butonlu-mongo-register&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"alt="Python_Programming_Language" /></a>
+    <a href="https://github.com/KafkasOfficial/v13-butonlu-mongo-register">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KafkasOfficial&repo=v13-butonlu-mongo-register&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"alt="Python_Programming_Language" /></a>
 </p>
 
 <p  align="center">
